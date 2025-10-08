@@ -70,6 +70,6 @@ As an aspiring Software Engineer with a foundation in Python, Core Java, SQL, Ma
 
 <hr>
 
-<p style="font-size:1em;">
+<p align = 'center' style="font-size:1em;">
 I hereby declare that all the information mentioned above is true and correct to the best of my knowledge and belief.
 </p>
