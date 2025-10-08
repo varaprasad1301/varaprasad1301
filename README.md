@@ -42,15 +42,15 @@ As an aspiring Software Engineer with a foundation in Python, Core Java, SQL, Ma
 <!-- <hr style="margin-top:-18px;"> -->
 <b>BRAIN TUMOR CLASSIFICATION USING CNN:</b>
 <p align="justify">
-Developed a brain tumor classification system using CNN architectures (ResNet101, ResNet50, VGG16, VGG19, and EfficientNetB0), with ResNet50 achieving the highest accuracy. ResNet50 was chosen as the base model and deployed using Flask to identify brain tumors. If a tumor is detected, the system displays the tumor type (among three types) and provides recommendations for potential reduction. If no tumor is detected, it simply displays “No tumor”.
+    Developed a brain tumor classification system using CNN architectures (ResNet101, ResNet50, VGG16, VGG19, and EfficientNetB0), with ResNet50 achieving the highest accuracy. ResNet50 was chosen as the base model and deployed using Flask to identify brain tumors. If a tumor is detected, the system displays the tumor type (among three types) and provides recommendations for potential reduction. If no tumor is detected, it simply displays “No tumor”.
 </p>
 <b>ANOMALY-DETECTION IN VIDEO SURVEILLANCE FOR PUBLIC SAFETY:</b>
 <p align="justify">
-Developed a real-time video surveillance system using Python to enhance public safety through face and mask detection. The project combines two modules: Module 1 for face detection, which captures a person’s face using OpenCV and stores their data; Module 2 for mask detection, which identifies whether individuals are wearing masks and alerts authorities if violations are detected.
+  Developed a real-time video surveillance system using Python to enhance public safety through face and mask detection. The project combines two modules: Module 1 for face detection, which captures a person’s face using OpenCV and stores their data; Module 2 for mask detection, which identifies whether individuals are wearing masks and alerts authorities if violations are detected.
 </p>
 <b>RESTAURANT REVIEWS CLASSIFICATION USING NLP:</b>
 <p align="justify">
-Developed a sentiment analysis web application using Streamlit to analyse and visualize sentiment in user-provided text data.
+  Developed a sentiment analysis web application using Streamlit to analyse and visualize sentiment in user-provided text data.
 </p>
 
 <!-- Section: Technical Skills -->
