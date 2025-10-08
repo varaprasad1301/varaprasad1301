@@ -1,6 +1,6 @@
-                                                        # GODUGU VARAPRASAD
+                                                        # **GODUGU VARAPRASAD
                               Govardhanagiri, Jangoan | 8790756732 | goduguvaraprasad2003@gmail.com  
-                                                  [LinkedIn](#) | [GitHub](#)
+                                                  [LinkedIn](#) | [GitHub](#)**
 
 ## CAREER OBJECTIVE
 
