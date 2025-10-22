@@ -77,7 +77,7 @@ me.say_hi()
 - Built Flask web application for real-time tumor detection and classification
 - Provides tumor type identification and treatment recommendations
 
-[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)](https://github.com/varaprasad1301)
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)]((https://github.com/varaprasad1301/brain-tumor-classification-using-cnn))
 
 ---
 
@@ -89,7 +89,7 @@ me.say_hi()
 - Automated alert system for safety violations
 - Utilizes OpenCV for real-time video processing
 
-[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)](https://github.com/varaprasad1301)
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)]((https://github.com/varaprasad1301/Anomaly-Detection-in-Video-Surveillance-for-Public-Safety))
 
 ---
 
@@ -101,7 +101,7 @@ me.say_hi()
 - Real-time classification of restaurant reviews
 - Interactive dashboard for sentiment visualization
 
-[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)](https://github.com/varaprasad1301)
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)]((https://github.com/varaprasad1301/sentimental-analysis-of-restaruent-reviews))
 
 ---
 
