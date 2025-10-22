@@ -43,58 +43,60 @@ me.say_hi()
 
 ## 🛠️ Tech Stack
 
-### Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-
-### Frameworks & Libraries
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-
-### Databases & Tools
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</div>
 
 ---
 
 ## 💼 Featured Projects
 
-### 🧠 [Brain Tumor Classification Using CNN](https://github.com/varaprasad1301/brain-tumor-classification-using-cnn)
-**Technologies:** Python, TensorFlow, ResNet50, VGG16, VGG19, EfficientNetB0, Flask
+---
 
-- Developed a CNN-based brain tumor classification system comparing multiple architectures
-- Achieved highest accuracy with **ResNet50** model
-- Built Flask web application for real-time tumor detection and classification
-- Provides tumor type identification and treatment recommendations
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge")]  
+**Brain Tumor Classification Using CNN**  
+*Technologies:* Python, TensorFlow, ResNet50, VGG16, VGG19, EfficientNetB0, Flask  
+- Developed a CNN-based brain tumor classification system comparing multiple architectures  
+- Achieved highest accuracy with **ResNet50** model  
+- Built Flask web application for real-time tumor detection and classification  
+- Provides tumor type identification and treatment recommendations  
+Repo: [brain-tumor-classification-using-cnn](https://github.com/varaprasad1301/brain-tumor-classification-using-cnn)
 
 ---
 
-### 🎥 [Anomaly Detection in Video Surveillance](https://github.com/varaprasad1301/Anomaly-Detection-in-Video-Surveillance-for-Public-Safety)
-**Technologies:** Python, OpenCV, Computer Vision, Face Detection
-
-- Real-time video surveillance system for public safety enhancement
-- Integrated face detection and mask detection modules
-- Automated alert system for safety violations
-- Utilizes OpenCV for real-time video processing
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge")]  
+**Anomaly Detection in Video Surveillance**  
+*Technologies:* Python, OpenCV, Computer Vision, Face Detection  
+- Real-time video surveillance system for public safety enhancement  
+- Integrated face detection and mask detection modules  
+- Automated alert system for safety violations  
+- Utilizes OpenCV for real-time video processing  
+Repo: [Anomaly-Detection-in-Video-Surveillance-for-Public-Safety](https://github.com/varaprasad1301/Anomaly-Detection-in-Video-Surveillance-for-Public-Safety)
 
 ---
 
-### 🍽️ [Restaurant Reviews Classification Using NLP](https://github.com/varaprasad1301/sentimental-analysis-of-restaruent-reviews)
-**Technologies:** Python, NLP, Streamlit, Sentiment Analysis
-
-- Built sentiment analysis web application using Streamlit
-- Analyzes and visualizes sentiment in user-provided text data
-- Real-time classification of restaurant reviews
-- Interactive dashboard for sentiment visualization
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge")]  
+**Restaurant Reviews Classification Using NLP**  
+*Technologies:* Python, NLP, Streamlit, Sentiment Analysis  
+- Built sentiment analysis web application using Streamlit  
+- Analyzes and visualizes sentiment in user-provided text data  
+- Real-time classification of restaurant reviews  
+- Interactive dashboard for sentiment visualization  
+Repo: [sentimental-analysis-of-restaruent-reviews](https://github.com/varaprasad1301/sentimental-analysis-of-restaruent-reviews)
 
 ---
 
