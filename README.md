@@ -36,8 +36,6 @@ me.say_hi()
 - 💡 Passionate about **Machine Learning**, **Deep Learning**, and **Backend Development**
 - 🔭 Currently working on innovative projects involving **Django REST APIs** and **ML models**
 - 🌱 Always learning and exploring new technologies
-- 🏆 3rd place winner in **Block-by-Block Debugathon** at KARE
-- 📫 Reach me at: **goduguvaraprasad2003@gmail.com**
 
 ---
 
@@ -64,7 +62,6 @@ me.say_hi()
 ---
 
 ## 💼 Featured Projects
-
 ---
 
 **🧠 Brain Tumor Classification Using CNN**
@@ -118,8 +115,7 @@ me.say_hi()
 ## 🏆 Achievements
 
 - 🥉 **3rd Place** - Block-by-Block Debugathon hosted by Coding Blocks at KARE
-- 🎓 **CGPA 8.63** - B.Tech Computer Science
-- 🚀 Successfully deployed multiple ML/DL projects
+
 
 ---
 
@@ -147,9 +143,5 @@ I'm always interested in collaborating on innovative projects, especially in the
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=varaprasad1301&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/varaprasad1301">varaprasad1301</a></i>
+  <i>⭐️ From <a href="https://github.com/varaprasad1301">varaprasad</a></i>
 </p>
