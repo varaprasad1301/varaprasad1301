@@ -67,36 +67,51 @@ me.say_hi()
 
 ---
 
-[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge")]  
-**Brain Tumor Classification Using CNN**  
+**🧠 Brain Tumor Classification Using CNN**
+
 *Technologies:* Python, TensorFlow, ResNet50, VGG16, VGG19, EfficientNetB0, Flask  
 - Developed a CNN-based brain tumor classification system comparing multiple architectures  
 - Achieved highest accuracy with **ResNet50** model  
 - Built Flask web application for real-time tumor detection and classification  
 - Provides tumor type identification and treatment recommendations  
-Repo: [brain-tumor-classification-using-cnn](https://github.com/varaprasad1301/brain-tumor-classification-using-cnn)
+
+<p>
+  <a href="https://github.com/varaprasad1301/brain-tumor-classification-using-cnn">
+    <img src="https://img.shields.io/badge/View%20Project-brain%20tumor%20classification-blue?style=for-the-badge" alt="View Project"/>
+  </a>
+</p>
 
 ---
 
-[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge")]  
-**Anomaly Detection in Video Surveillance**  
+**🎥 Anomaly Detection in Video Surveillance**
+
 *Technologies:* Python, OpenCV, Computer Vision, Face Detection  
 - Real-time video surveillance system for public safety enhancement  
 - Integrated face detection and mask detection modules  
 - Automated alert system for safety violations  
 - Utilizes OpenCV for real-time video processing  
-Repo: [Anomaly-Detection-in-Video-Surveillance-for-Public-Safety](https://github.com/varaprasad1301/Anomaly-Detection-in-Video-Surveillance-for-Public-Safety)
+
+<p>
+  <a href="https://github.com/varaprasad1301/Anomaly-Detection-in-Video-Surveillance-for-Public-Safety">
+    <img src="https://img.shields.io/badge/View%20Project-anomaly%20detection-blue?style=for-the-badge" alt="View Project"/>
+  </a>
+</p>
 
 ---
 
-[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge")]  
-**Restaurant Reviews Classification Using NLP**  
+**🍽️ Restaurant Reviews Classification Using NLP**
+
 *Technologies:* Python, NLP, Streamlit, Sentiment Analysis  
 - Built sentiment analysis web application using Streamlit  
 - Analyzes and visualizes sentiment in user-provided text data  
 - Real-time classification of restaurant reviews  
 - Interactive dashboard for sentiment visualization  
-Repo: [sentimental-analysis-of-restaruent-reviews](https://github.com/varaprasad1301/sentimental-analysis-of-restaruent-reviews)
+
+<p>
+  <a href="https://github.com/varaprasad1301/sentimental-analysis-of-restaruent-reviews">
+    <img src="https://img.shields.io/badge/View%20Project-restaurant%20reviews-blue?style=for-the-badge" alt="View Project"/>
+  </a>
+</p>
 
 ---
 
