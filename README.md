@@ -34,9 +34,8 @@ me.say_hi()
 
 - 🎓 Computer Science student at **Kalasalingam Academy** (2021-2025)
 - 💡 Passionate about **Machine Learning**, **Deep Learning**, and **Backend Development**
-- 🔭 Currently working on innovative projects involving **Django REST APIs** and **ML models**
-- 🌱 Always learning and exploring new technologies
-
+- 🔭 Experienced in building **Django REST APIs**, **scalable backend systems**, and **ML-powered applications**
+- 🌱 Continuously learning System Design, Cloud & Advanced Backend Architecture
 ---
 
 ## 🛠️ Tech Stack
@@ -62,7 +61,7 @@ me.say_hi()
 ---
 
 ## 💼 Featured Projects
----
+
 
 **🧠 Brain Tumor Classification Using CNN**
 
@@ -110,8 +109,8 @@ me.say_hi()
   </a>
 </p>
 
----
 
+---
 
 ## 💭 Quote
 
