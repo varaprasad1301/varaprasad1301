@@ -112,12 +112,6 @@ me.say_hi()
 
 ---
 
-## 🏆 Achievements
-
-- 🥉 **3rd Place** - Block-by-Block Debugathon hosted by Coding Blocks at KARE
-
-
----
 
 ## 💭 Quote
 
