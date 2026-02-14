@@ -1,7 +1,18 @@
 # README
 
-... (content before line 35)
-🎓 B.Tech in Computer Science from **Kalasalingam Academy** (2021-2025) - Graduated
-... (content after line 35 but before line 115)
+## Introduction
 
-... (content after line 120)
+This is the main repository for my projects and contributions.
+
+## Graduated Status
+
+I have successfully graduated and am now looking for opportunities in the field.
+
+## Projects
+
+- Project 1
+- Project 2
+
+## Contact
+
+Feel free to reach out to me at my email: example@example.com.
