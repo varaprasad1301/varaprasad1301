@@ -1,9 +1,7 @@
-# README.md
+# README
 
-## Education
+... (content before line 35)
+🎓 B.Tech in Computer Science from **Kalasalingam Academy** (2021-2025) - Graduated
+... (content after line 35 but before line 115)
 
-- Completed B.Tech
-
-## Achievements
-
-<!-- Achievements section has been removed. -->
+... (content after line 120)
