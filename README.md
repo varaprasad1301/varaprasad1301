@@ -76,10 +76,10 @@ Synapse is a mobile app used by groups and friends to track expenses, split bill
 
 **Download:**
 <p>
-  <a href="https://apps.apple.com/app/synapse">
+  <a href="https://apps.apple.com/in/app/synapse-intelligence/id6752834511">
     <img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store"/>
   </a>
-  <a href="https://play.google.com/store/apps/details?id=com.synapse">
+  <a href="https://play.google.com/store/apps/details?id=com.synapseintel.app">
     <img src="https://img.shields.io/badge/Play%20Store-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store"/>
   </a>
 </p>
