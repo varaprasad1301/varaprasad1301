@@ -24,6 +24,7 @@ class SoftwareEngineer:
         self.university = "Kalasalingam Academy of Research and Education"
         self.interests = ["Machine Learning", "Deep Learning", "Backend Development", "API Design"]
         self.current_focus = "Building scalable applications with Django & Flask"
+        self.experience = "1 Year 1 Month (April 2025 - May 2026)"
     
     def say_hi(self):
         print("Thanks for stopping by! Let's build something amazing together!")
@@ -36,6 +37,7 @@ me.say_hi()
 - 💡 Passionate about **Machine Learning**, **Deep Learning**, and **Backend Development**
 - 🔭 Experienced in building **Django REST APIs**, **scalable backend systems**, and **ML-powered applications**
 - 🌱 Continuously learning System Design, Cloud & Advanced Backend Architecture
+- ⚡ **Professional Experience:** 1 Year 1 Month (April 2025 - May 2026)
 ---
 
 ## 🛠️ Tech Stack
