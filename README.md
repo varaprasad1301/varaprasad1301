@@ -74,6 +74,16 @@ Synapse is a mobile app used by groups and friends to track expenses, split bill
 - Designed and optimized **PostgreSQL** models with indexing for faster performance
 - Deployed backend on **Render** with caching and performance improvements
 
+**Download:**
+<p>
+  <a href="https://apps.apple.com/app/synapse">
+    <img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store"/>
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.synapse">
+    <img src="https://img.shields.io/badge/Play%20Store-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store"/>
+  </a>
+</p>
+
 ---
 
 ### **Gubera AI – Smart Business Management App**
