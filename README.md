@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Software Engineer | ML/DL Enthusiast | Backend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Machine+Learning+Enthusiast;Backend+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Machine+Learning+Enthusiast;Backend+Developer;API+Designer" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -57,6 +57,36 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </div>
+
+---
+
+## 💼 Work Experience
+
+### **Synapse – Expense Management Platform**
+**Role:** Backend Developer | **Duration:** 5 months | **Platforms:** Android & iOS
+
+Synapse is a mobile app used by groups and friends to track expenses, split bills, settle payments, and stay updated through real-time chat. It supports AI-based expense entry, receipt scanning, and fast UPI payments for simple financial management.
+
+**My Work:**
+- Developed backend APIs using **Django & DRF** for expenses, groups, budgets, and settlements
+- Added AI-based features: voice expense logging (**OpenAI Whisper**) and receipt scanning (**PaddleOCR**)
+- Implemented real-time chat & notifications using **Django Channels**
+- Designed and optimized **PostgreSQL** models with indexing for faster performance
+- Deployed backend on **Render** with caching and performance improvements
+
+---
+
+### **Gubera AI – Smart Business Management App**
+**Role:** Backend Developer | **Duration:** 5 months (Ongoing) | **Platforms:** Android & iOS
+
+Gubera AI is an app designed for small businesses to manage sales, payments, inventory, suppliers, and customers through simple chat-based interactions in multiple languages. It helps merchants automate daily tasks and understand their business activity easily.
+
+**My Work:**
+- Integrated **GPT-4o** to enable chat-based business operations
+- Built core backend modules for transactions, inventory, suppliers, and customers
+- Added multi-language support (English, Tamil, Telugu, Malayalam, Kannada)
+- Developed robust **REST APIs** and improved backend performance with indexing & caching
+- Implemented automatic transaction classification and user activity tracking
 
 ---
 
